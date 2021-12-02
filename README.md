@@ -1,3 +1,8 @@
+# M2-Embedded_Energy_Meter
+
+## Linux OS Build
+[![Build](https://github.com/Chaurasiyakash0136/M2-Embedded_Energy_Meter/actions/workflows/Complie.yml/badge.svg?event=branch_protection_rule)](https://github.com/Chaurasiyakash0136/M2-Embedded_Energy_Meter/actions/workflows/Complie.yml)
+
 ## CPP Check
 [![Static code Cppcheck](https://github.com/Chaurasiyakash0136/M2-Embedded_Energy_Meter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Chaurasiyakash0136/M2-Embedded_Energy_Meter/actions/workflows/cpp_check.yml)
 
