@@ -1,3 +1,5 @@
+## CPP Check
+[![Static code Cppcheck](https://github.com/Chaurasiyakash0136/M2-Embedded_Energy_Meter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Chaurasiyakash0136/M2-Embedded_Energy_Meter/actions/workflows/cpp_check.yml)
 
 # Code Quality Score
 ![Codacy Badge](https://api.codiga.io/project/30296/score/svg)
