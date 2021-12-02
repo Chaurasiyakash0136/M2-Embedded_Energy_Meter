@@ -1,3 +1,7 @@
+![Codacy Badge](https://api.codiga.io/project/30296/score/svg)
+![Code Quality Score](https://api.codiga.io/project/30296/status/svg)
+
+
 
 ![144298413-409aef24-f01f-4392-8180-7d02b92d7ca4](https://user-images.githubusercontent.com/94366020/144354966-69f247f0-b9fc-47a2-a64f-6f13f8dee894.png)
 
