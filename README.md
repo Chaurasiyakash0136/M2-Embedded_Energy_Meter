@@ -1,4 +1,8 @@
+
+# Code Quality Score
 ![Codacy Badge](https://api.codiga.io/project/30296/score/svg)
+
+## Quality Badge(Codacy)
 ![Code Quality Score](https://api.codiga.io/project/30296/status/svg)
 
 
